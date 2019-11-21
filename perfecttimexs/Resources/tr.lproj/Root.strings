@@ -1,0 +1,23 @@
+{
+	RESPRING = "YENİDEN BAŞLAT";
+	ENABLE =  "Etkin";
+	RESPRING_TITLE =  "Yapılandırmanın Kaydedildiğine Emin Olmak ve Ardından Sorun Yoksa, Yeniden Başlatmak için Ayarlara Geri Dönün Sonra Yeniden Başlat yapın";
+	GLOBAL_TITLE = "Genel Ayarlar: HİZALAMA: 0 Sol, 1 Orta, 2 Sağ\nYerel ayar: Standart Zaman Biçimi, Lütfen internetten Bakınız.";
+	LANGUAGE = "Bölge(en_US,zh_CN,tr)";
+	ALIGNMENT =  "Hizala";
+	SHOW_LOCATION = "Bölgeyi Göster";
+	PART1_TITLE =  "Birinci Kısım Sadece Yalnızca Bir Bölümü Etkinleştirebilirsiniz,\nPiksel ile Ofset, Pozitif Yukarı ve Negatif Aşağı";
+	PART2_TITLE =  "İkinci Kısım";
+	PART3_TITLE =  "Üçüncü Kısım";
+	PART4_TITLE =  "Dördüncü Kısım";
+	BOLD =  "Kalın Yazı Kullanın";
+	FORMAT = "Biçim";
+	FONT_SIZE =  "Font Boyutu";
+	BREAKLINE =  "Ara Çizgisi(Sonraki Bölüm)";
+	OFFSET =  "Dikey Uzaklık";
+	DONATION = "Bağış Yap（PayPal）";
+	DONATION2 = "Bağış Yap（AliPay）";
+	DONATION_TITLE ="Tweaklerimi Beğendinizmi ? Lütfen Bağış Yapmayı Düşünün, Böylece Tweak Geliştirmeye Devam Edebilirim!";
+	TRANSLATOR = "Türkçe 🇹🇷 Çeviri by serif61";
+	LEGACY_FONT="Açık bir çarpışma karşılaşıldı";
+}

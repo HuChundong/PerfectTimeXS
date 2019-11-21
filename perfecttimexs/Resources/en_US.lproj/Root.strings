@@ -1,0 +1,23 @@
+{
+	RESPRING = "RESPRING";
+	ENABLE =  "Enable";	
+	RESPRING_TITLE =  "Back to Setting to confirm config saved and then respring, if has problem,reboot and rejailbreak";	
+	GLOBAL_TITLE = "Global Setting: ALIGNMENT: 0 left,1 center,2 right\nLocale：standard time format,plz find from internet";
+	LANGUAGE ="Locale(en_US,zh_CN)";	
+	ALIGNMENT =  "Alignment";	
+	SHOW_LOCATION = "ShowLocation";
+	PART1_TITLE =  "First Part，you can only enable one part,\nOffset by pixel,positive up and negative down";	
+	PART2_TITLE =  "Second Part";	
+	PART3_TITLE =  "Third Part";	
+	PART4_TITLE =  "Fouth Part";	
+	BOLD =  "UseBold";	
+	FORMAT =  "Format";	
+	FONT_SIZE =  "FontSize";	
+	BREAKLINE =  "BreakLine(nextPart)";	
+	OFFSET =  "VerticalOffset";	
+	DONATION ="Donation（PayPal）";
+	DONATION2 ="Donation（AliPay）";
+	DONATION_TITLE ="Enjoying this tweak? Please consider donating so I can continue to develop tweaks like this! ";
+	TRANSLATOR= "";
+	LEGACY_FONT= "Encountered a crash enable";
+}

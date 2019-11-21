@@ -1,0 +1,24 @@
+
+{
+	RESPRING = "註銷";
+	ENABLE = "啟用";
+	RESPRING_TITLE = "修改後註銷2次,或者直接重啟重新越獄[推薦]";
+	GLOBAL_TITLE = "全局設置：對齊：0居左，1居中，2居右";
+	LANGUAGE ="語言區域(en_US,zh_CN)";
+	ALIGNMENT = "對齊方式";
+	SHOW_LOCATION = "顯示定位圖標";
+	PART1_TITLE = "第一部分，按模塊設置，可以只啟用一個模塊,\n垂直偏移 按照像素偏移，正數向上，負數向下";
+	PART2_TITLE = "第二部分";
+	PART3_TITLE = "第三部分";
+	PART4_TITLE = "第四部分";
+	BOLD = "使用粗體";
+	FORMAT = "時間格式";
+	FONT_SIZE = "字體大小";
+	BREAKLINE = "換行(後續內容換行)";
+	OFFSET = "垂直偏移";
+	DONATION ="捐贈（PayPal）";
+	DONATION2 ="捐贈（支付寶）";
+	DONATION_TITLE ="如果您喜歡這個插件，請考慮捐贈作者，用於後續的維護和開發新的優秀插件，謝謝";
+	TRANSLATOR= "如果您認為翻譯有任何問題，請通過郵件聯繫我";
+	LEGACY_FONT= "遇到崩潰開啟";
+}

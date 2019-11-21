@@ -1,0 +1,10 @@
+Package: com.yourepo.kingmehu.perfecttimexs
+Name: PerfectTimeXS
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Version: 0.2.1
+Architecture: iphoneos-arm
+Description: modif the status bar time format,just for iPhone X/S/MAX
+Maintainer: HuChundong
+Author: HuChundong
+Section: Tweaks

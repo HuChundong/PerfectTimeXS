@@ -1,0 +1,268 @@
+{
+  title = "PerfectTime XS";
+  items = (
+    {
+      cell = PSGroupCell;
+      headerCellClass = HeaderCell;
+    },
+    {
+      cell = PSGroupCell;
+      label =RESPRING_TITLE;
+    },
+    {
+      cell = PSButtonCell;
+      label = RESPRING;
+      action = "respring";
+    },
+    {
+      cell = PSGroupCell;
+      label =GLOBAL_TITLE;
+    },
+    {
+      cell = PSEditTextCell;
+      label = LANGUAGE;
+      key = "language";
+      default = "zh_CN";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = ALIGNMENT;
+      key = "textAlignment";
+      default = 1;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = SHOW_LOCATION;
+      key = "location";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = LEGACY_FONT;
+      key = "legacyFont";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSGroupCell;
+      label =PART1_TITLE;
+    },
+    {
+      cell = PSSwitchCell;
+      label = ENABLE;
+      key = "enable1";
+      default = 1;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FORMAT;
+      key = "format1";
+      default = "HH:mm";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FONT_SIZE;
+      key = "fontSize1";
+      default = 15;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = OFFSET;
+      key = "fontOffset1";
+      default = 0;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BOLD;
+      key = "isBold1";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BREAKLINE;
+      key = "breakLine1";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {   
+      cell = PSGroupCell;
+      label =PART2_TITLE;
+    },
+    {
+      cell = PSSwitchCell;
+      label = ENABLE;
+      key = "enable2";
+      default = 1;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FORMAT;
+      key = "format2";
+      default = " E";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FONT_SIZE;
+      key = "fontSize2";
+      default = 9;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = OFFSET;
+      key = "fontOffset2";
+      default = 0;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BOLD;
+      key = "isBold2";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BREAKLINE;
+      key = "breakLine2";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSGroupCell;
+      label =PART3_TITLE;
+    },
+    {
+      cell = PSSwitchCell;
+      label = ENABLE;
+      key = "enable3";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FORMAT;
+      key = "format3";
+      default = "";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FONT_SIZE;
+      key = "fontSize3";
+      default = 9;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = OFFSET;
+      key = "fontOffset3";
+      default = 0;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BOLD;
+      key = "isBold3";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BREAKLINE;
+      key = "breakLine3";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSGroupCell;
+      label =PART4_TITLE;
+    },
+    {
+      cell = PSSwitchCell;
+      label = ENABLE;
+      key = "enable4";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FORMAT;
+      key = "format4";
+      default = "";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = FONT_SIZE;
+      key = "fontSize4";
+      default = 9;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSEditTextCell;
+      label = OFFSET;
+      key = "fontOffset4";
+      default = 0;
+      isNumeric=true;
+      keyboard = "numbers";
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSSwitchCell;
+      label = BOLD;
+      key = "isBold4";
+      default = 0;
+      defaults = "com.huchundong.PerfectTimeXS";
+    },
+    {
+      cell = PSGroupCell;
+      label = DONATION_TITLE;
+    },
+    {
+      cell = PSButtonCell;
+      label = DONATION;
+      action = "donation";
+    },
+    {
+      cell = PSButtonCell;
+      label = DONATION2;
+      action = "donationAliPay";
+    },
+    {
+      cell = PSGroupCell;
+      label = TRANSLATOR;
+    },
+    {
+        cell = PSGroupCell;
+        height = 20;
+        footerText = "PerfectTime XS @2019\nBy: HuChunDong, Designed by Zhangjianan \neMail:gycm520@163.com";
+    }
+  );
+}

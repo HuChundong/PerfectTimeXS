@@ -1,0 +1,23 @@
+{
+	RESPRING = "注销";
+	ENABLE =  "启用";	
+	RESPRING_TITLE =  "修改后注销2次,或者直接重启重新越狱[推荐]";	
+	GLOBAL_TITLE = "全局设置：对齐：0居左，1居中，2居右";
+	LANGUAGE ="语言区域(en_US,zh_CN)";	
+	ALIGNMENT =  "对齐方式";	
+	SHOW_LOCATION = "显示定位图标";
+	PART1_TITLE =  "第一部分，按模块设置，可以只启用一个模块,\n垂直偏移 按照像素偏移，正数向上，负数向下";	
+	PART2_TITLE =  "第二部分";	
+	PART3_TITLE =  "第三部分";	
+	PART4_TITLE =  "第四部分";	
+	BOLD =  "使用粗体";	
+	FORMAT =  "时间格式";	
+	FONT_SIZE =  "字体大小";	
+	BREAKLINE =  "换行(后续内容换行)";	
+	OFFSET =  "垂直偏移";	
+	DONATION ="捐赠（PayPal）";
+	DONATION2 ="捐赠（支付宝）";
+	DONATION_TITLE ="如果您喜欢这个插件，请考虑捐赠作者，用于后续的维护和开发新的优秀插件，谢谢";
+	TRANSLATOR= "如果有任何问题，请直接向我发邮件，我会尽力修复它";
+	LEGACY_FONT= "遇到崩溃开启";
+}
